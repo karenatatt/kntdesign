@@ -1,0 +1,57 @@
+.inline-block{
+vertical-align: top;
+width:50%;
+margin-right:auto;
+}
+.logo{
+  width: 23%;
+  padding: 1%;
+  text-align: center;
+}
+/*the default for .nav*/
+.nav{
+width: 73%;
+padding: 1%;
+}
+.inline-block{
+  width:50%;
+  margin-right:auto;
+}
+.heroimg{
+  height: 600px;
+  padding: 25px;
+}
+.content{
+  width:500px;
+  margin: 0 auto;
+}
+
+footer{
+  background-color: #373738;
+}
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
+
+
+
+
+div {
+  margin: 15px;
+}
+.button {
+  background-color: rgb(58, 53, 53);
+  padding: 15px;
+  cursor: pointer;
+  text-align:center;
+  max-width: 150px;
+}
+
+
+
